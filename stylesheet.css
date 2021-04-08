@@ -217,6 +217,7 @@ footer {
   width: 300px;
   border-radius: 40px;
   border: 0;
+  padding: 2px 2px;
 }
 .src {
   background: transparent;
